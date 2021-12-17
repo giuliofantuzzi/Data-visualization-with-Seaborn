@@ -7,7 +7,7 @@ More specifically, the library I decided to practice with is **_Seaborn_**, a po
 Here I'm gonna upload all my scripts and projects, in order to see, hopefully, my progress over time
 
 Directories:
-Project         | Description
-----------------|-------------
-Museum visitors | A project to practice with lineplots and time series
-Insurance       | A project to practice with linear regression
+||Project         | Description
+-----|----------------|-------------
+1|Museum visitors | A project to practice with lineplots and time series
+2|Insurance       | A project to practice with linear regression
