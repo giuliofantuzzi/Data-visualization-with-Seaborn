@@ -4,7 +4,7 @@ This repository contains my first approaches in the field of _Data visualization
 
 More specifically, the library I decided to practice with is **_Seaborn_**, a powerful but easy-to-use data visualization tool.
 
-Here I'm gonna upload all my scripts and projects, in order to see, hopefully, my progress over time
+Here I'm gonna upload all my scripts and projects, in order to see (hopefully) my progress over time.
 
 Directories:
 ||Project         | Description
